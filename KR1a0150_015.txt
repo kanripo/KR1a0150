@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易孔義集說
-#+DATE: 2015-09-23 09:35:41
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:00:30.911309
+#+PROPERTY: ID KR1a0150
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1a0150_WYG_015-1a>¶
 欽定四庫全書¶
 　周易孔義集說卷十五¶
@@ -1064,4 +1066,3 @@
 　¶
 　¶
 　周易孔義集説卷十五¶
-
